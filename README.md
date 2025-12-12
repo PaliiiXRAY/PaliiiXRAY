@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**PaliiiXRAY/PaliiiXRAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+I'm Pallabi Pandi, a B.Tech 2nd year student at Chandigarh University! 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: **< C++, Python, JavaScript, Django, Machine Learning>**
+- 👯 I’m looking to collaborate on: **< Open source projects related to web dev>**
+- 💬 Ask me about: **< DSA, web development, or gaming>**
+- 📫 How to reach me: **< <pallabitheprincess74@gmail.com> or <linkedin.com/in/pallabi-pandi-211a51348> >**
+- 😄 Pronouns: <She/Her>
+
+---
+
+#### 🛠️ My Skills
+`HTML` `CSS` `JavaScript` `Python` `C++` `Git` `MySQL`
+
+#### 📊 GitHub Stats
+
