@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a 2nd-year **Computer Science & Engineering** student at **Chandigarh University** (Aug 2024 – Jun 2028), part of the merit-based **Kargil Batch**. I build full-stack web apps, AI agents, and cyber-flavored prototypes — and I love turning ideas into things people can actually click.
+I'm a 3rd-year **Computer Science & Engineering** student at **Chandigarh University** (Aug 2024 – Jun 2028), part of the merit-based **Kargil Batch**. I build full-stack web apps, AI agents, and cyber-flavored prototypes — and I love turning ideas into things people can actually click.
 
 - 🔭 **Currently building** [JARVIS](#-whats-cooking) — an always-on, voice-controlled personal device agent that drives my Windows PC and Android phone via LLM function calling
 - 🧪 **Also researching** Explainable AI — interpreting deep-learning image fusion with Grad-CAM & SHAP (medical imaging + remote sensing)
