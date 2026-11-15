@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pallabi--pandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallabi-pandi-211a51348/)
 [![GitHub](https://img.shields.io/badge/GitHub-PaliiiXRAY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PaliiiXRAY)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Pallabi__-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pallabi_/)
 [![Email](https://img.shields.io/badge/Email-palipallabi09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palipallabi09@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?lines=CS+undergrad+@+Chandigarh+University&lines=Building+JARVIS,+my+personal+device+agent&lines=React+%C2%B7+Node+%C2%B7+Python+%C2%B7+C%2B%2B&lines=200%2B+LeetCode+and+counting&font=JetBrains+Mono&weight=500&size=22&color=8B5CF6&center=true&width=600&duration=3200&v=3" alt="Typing SVG" />
